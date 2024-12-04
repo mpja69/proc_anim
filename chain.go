@@ -1,11 +1,5 @@
 package main
 
-// Procedurally animate a body with array of segments
-// Using:	Let the head follow a target,
-//			1) where the angle is slowly moving towards target
-//			2) its speed is slowly moving towards target
-//			3) each following segment is adjusting its distand and agle to follow tightly
-
 import (
 	"image/color"
 	"math"
